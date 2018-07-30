@@ -14,12 +14,15 @@ This module provides regular expressions according to RFC 3986 and RFC 3987
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/rfc3987-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/rfc3987-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/rfc3987-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/rfc3987-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/rfc3987/badges/version.svg)](https://anaconda.org/conda-forge/rfc3987)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/rfc3987/badges/downloads.svg)](https://anaconda.org/conda-forge/rfc3987)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-rfc3987-green.svg)](https://anaconda.org/conda-forge/rfc3987) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/rfc3987.svg)](https://anaconda.org/conda-forge/rfc3987) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/rfc3987.svg)](https://anaconda.org/conda-forge/rfc3987) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/rfc3987.svg)](https://anaconda.org/conda-forge/rfc3987) |
 
 Installing rfc3987
 ==================
