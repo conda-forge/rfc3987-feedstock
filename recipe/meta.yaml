@@ -1,8 +1,8 @@
 {% set name = "rfc3987" %}
-{% set version = "1.3.7" %}
+{% set version = "1.3.8" %}
 {% set file_ext = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "91a7826b0a26c246a5a91bef09c2c0809c713a689be689b9571e78a13f6557a4" %}
+{% set hash_value = "d3c4d257a560d544e9826b38bc81db676890c79ab9d7ac92b39c7a253d5ca733" %}
 
 package:
   name: '{{ name|lower }}'
